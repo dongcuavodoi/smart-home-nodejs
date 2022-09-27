@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /* Copyright 2020, Google, Inc.
  * Licensed under the Apache License, Version 2.0 (the 'License');
  * you may not use this file except in compliance with the License.
@@ -15,6 +16,7 @@
 /**
  * device-manager implements a CRUD endpoint for managing smarthome devices.
  */
+
 import * as functions from 'firebase-functions';
 import express from 'express';
 
